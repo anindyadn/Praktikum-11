@@ -1,6 +1,6 @@
 <?php
 //membuat koneksi
-include ('koneksi.php');
+include ('koneksii.php');
 // require file autoload.inc.php dari folder dompdf
 require_once ("dompdf/autoload.inc.php");
 //menggunakan dompdf
